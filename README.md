@@ -30,3 +30,9 @@ Block ini berisi sensor temperature berupa NTC 10k yang digunakan untuk membaca 
 Pada block ini berisi ic attiny85. Block ini digunakan untuk mengontrol pin ECHO dan TRIG dari controller ultrasonic lalu mengubahnya menjadi besaran panjang. Block ini juga digunakan untuk membaca masukan dari temp sensor lalu mengkonversinya menjadi besaran temperature. Selanjutnya besaran panjang dan temperature akan dikeluarkan melalui pin serial dari attiny85 yang selanjutnya data serial panjang dan temperature ini dapat dibaca melalui komunikasi serial UART dan diolah oleh controller selanjutnya. Kontroller selanjutnya dapat berupa ESP8266 yang dapat mengirimkan data panjang dan temperature melalui IoT  
 => Konektor <=  
 Block ini berisi pinheader yang digunakan sebagai konektor pada modul sensor ini  
+Berikut merupakan gambar render dari PCB sensor ultrasonic ini :  
+=> Layer Atas <=  
+![downImg](https://user-images.githubusercontent.com/87922087/142972408-27eeab5a-10c3-4f2c-ac0f-48ded6b537f9.png)  
+=> Layer Bawah <=  
+![downImg1](https://user-images.githubusercontent.com/87922087/142972438-dd70e104-4b69-4bdf-97ab-b572d6d56800.png)
+
