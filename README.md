@@ -34,5 +34,9 @@ Berikut merupakan gambar render dari PCB sensor ultrasonic ini :
 => Layer Atas <=  
 ![downImg](https://user-images.githubusercontent.com/87922087/142972408-27eeab5a-10c3-4f2c-ac0f-48ded6b537f9.png)  
 => Layer Bawah <=  
-![downImg1](https://user-images.githubusercontent.com/87922087/142972438-dd70e104-4b69-4bdf-97ab-b572d6d56800.png)
-
+![downImg1](https://user-images.githubusercontent.com/87922087/142972438-dd70e104-4b69-4bdf-97ab-b572d6d56800.png)  
+Berikut merupakan gambar PCB yang sudah tercetak :  
+=> Tampak Atas <=  
+![20211221_102004](https://user-images.githubusercontent.com/87922087/146866625-6ef1c64f-3e3a-4909-aecf-c2fe71714482.jpg)  
+=> Tampak Bawah <=
+![20211221_102030](https://user-images.githubusercontent.com/87922087/146866686-1c64ef27-25ec-439c-9acd-8019be530209.jpg)  
